@@ -1,0 +1,12 @@
+.screen_container{
+    position: absolute;
+
+    width: 1000px;
+    height: 460px;
+    margin: 30px auto;
+    background: #000;
+    overflow: hidden;
+    //opacity:0.5;
+background:transparent;
+
+}
